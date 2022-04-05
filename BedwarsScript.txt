@@ -1,0 +1,164 @@
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading"
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading.."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading..."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading"
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading.."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading..."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading"
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading.."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading..."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading"
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading.."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading..."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading"
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading.."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading..."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading"
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading.."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading..."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading"
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading.."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loading..."
+        wait(0.1)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Loaded!"
+        wait(1.5)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game:"
+        wait(1.5)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game: B"
+        wait(0.01)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game: Be"
+        wait(0.01)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game: Bed"
+        wait(0.01)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game: Bedw"
+        wait(0.01)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game: Bedw"
+        wait(0.01)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game: Bedwa"
+        wait(0.01)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game: Bedwar"
+        wait(0.01)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game: Bedwars"
+        wait(0.01)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "You have choosen the game: Bedwars!"
+        wait(2.0)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Thanks for using Hrqma-ware!"
+        wait(4.5)
+        message:Destroy()
+ local message = Instance.new("Message", workspace)
+        message.Text = "Join any game in bedwars and the script will autolauch."
+        wait(4.5)
+        message:Destroy()
